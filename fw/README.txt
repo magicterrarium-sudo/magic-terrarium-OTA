@@ -4,7 +4,7 @@ Windows (הכי קל אצלך)
 
 פתח CMD בתיקיה של הקובץ והריץ:
 
-certutil -hashfile magic_terrarium.bin SHA256
+certutil -hashfile magic_terrarium1.2.8.bin SHA256
 
 
 זה ידפיס שורה עם 64 תווי hex. תעתיק בדיוק את ההקס (בלי רווחים), ותשים ב-manifest בשדה sha256.
