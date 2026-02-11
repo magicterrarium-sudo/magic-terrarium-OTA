@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "bin_url": "https://ota.magicterrarium.com/magic_terrarium1.4.0.bin",
-  "sha256": "82f7fa2ef0f9429e123e20e88f25e48fa1f5cc5bb3b3161b22082d1cf303677c"
+  "version": "1.4.1",
+  "bin_url": "https://ota.magicterrarium.com/magic_terrarium1.4.1.bin",
+  "sha256": "80f8379aaecddcfe45479f4637fc4344bec8ba4fc3c10bd904012ee751cbb478"
 }
